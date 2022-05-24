@@ -5,7 +5,7 @@ body{
 }
 
 .navbar{
-    background-color: var(--Primary-extra-light);
+    background-color: var(--Primary-extra-light-light);
     position: fixed;
     top: 0;
     right: 0;
