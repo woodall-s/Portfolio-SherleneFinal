@@ -21,26 +21,26 @@ body{
     margin-right: 10px;
 }
 .nav-link{
-    color: var(--Primary) !important;
+    color: var(--Gray-dark) !important;
 }
 .nav-link:hover{
     color: var(--Primary-light) !important;
     border-bottom: 2px solid var(--Primary-light);
 }
 .nav-link.active {
-    color: var(--Secondary-dark) !important;
+    color: var(--Primary-dark) !important;
     font-weight: bold;
-    border-bottom: 2px solid var(--Secondary-dark);
+    border-bottom: 2px solid var(--Primary-dark);
 }
 .dropdown-menu{
     background-color: var(--Secondary);
 }
 .dropdown-item{
-    color: var(--Danger-extra-light);
+    color: var(--Gray);
 }
 .dropdown-item:hover{
-    background-color: var(--Danger-extra-light);
-    color: var(--Secondary);
+    background-color: var(--Secondary-light);
+    color: var(--Gray-dark);
 }
 .hero{
     min-height: 70vh;
